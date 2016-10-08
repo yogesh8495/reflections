@@ -1,0 +1,2 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+A: Git starts keeping track of all the files and respective changes. Its required to commit the changes.
