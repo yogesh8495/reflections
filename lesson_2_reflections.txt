@@ -1,2 +1,9 @@
 1. What happens when you initialize a repository? Why do you need to do it?
 A: Git starts keeping track of all the files and respective changes. Its required to commit the changes.
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: Working directory has all the files and the latest changes made to them, while the staging area can hold selected files with latest changes. It helps us to divide a single commit into multiple commits.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+A: Only selecting the files involved in the logical change, add them to staging area and then commit.
+
