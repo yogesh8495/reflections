@@ -9,3 +9,6 @@ A: Only selecting the files involved in the logical change, add them to staging 
 
 4. What are some situations when branches would be helpful in keeping your history organised? How would branches help?
 A: Branches can help to work on multiple features at a time. It can help keep the tracks different.
+
+5. How do the diagrams help you visualize the branch structure?
+A: Diagram helps visualize the various branches and their commit history.
