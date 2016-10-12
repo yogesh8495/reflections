@@ -15,3 +15,6 @@ A: Diagram helps visualize the various branches and their commit history.
 
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A: It creates a new commit which merges the chamges from respective branches. It has details about both the parents that why we resent it with two heads.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: It takes care of creating a single code base from various branches and reduce the time required to merge manually. Cons includes conflict handling where it has to be handled manually.
