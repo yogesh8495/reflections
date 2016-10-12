@@ -12,3 +12,6 @@ A: Branches can help to work on multiple features at a time. It can help keep th
 
 5. How do the diagrams help you visualize the branch structure?
 A: Diagram helps visualize the various branches and their commit history.
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: It creates a new commit which merges the chamges from respective branches. It has details about both the parents that why we resent it with two heads.
